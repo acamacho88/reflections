@@ -4,3 +4,12 @@ do you need to do it?
 It begins communication with the directory and git
 so that the status of the directory will start being
 tracked.
+
+How is the staging area different from the working
+directory and the repository? What value do you think
+it offers?
+
+The staging area lets you see what you will commit, and
+what files are and aren't being tracked.  It's useful as
+a kind of last double-check to make sure you know what
+you'll be saving.
