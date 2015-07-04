@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why
+do you need to do it?
+
+It begins communication with the directory and git
+so that the status of the directory will start being
+tracked.
