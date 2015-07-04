@@ -41,3 +41,9 @@ do we represent it in the diagram the way we do?
 It incoporates all the changes since they split into one
 commit.  In the diagram, both separate branches join back
 together during a merge.
+
+What are the pros and cons of Git’s automatic merging vs.
+always doing merges manually?
+
+Pros: It won't do it automatically if there is a conflict
+Cons: It won't do it automatically if there is a conflict
