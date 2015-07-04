@@ -19,3 +19,12 @@ one commit per logical change?
 
 You can manually decide which files will be updated, so
 that the commits make logical sense.
+
+What are some situations when branches would be helpful
+in keeping your history organized? How would branches
+help?
+
+If you'd like to try adding a feature but still want a
+version you know will work that you can easily demo, you
+could create a branch for the feature so that the working
+version will be preserved.
