@@ -13,3 +13,9 @@ The staging area lets you see what you will commit, and
 what files are and aren't being tracked.  It's useful as
 a kind of last double-check to make sure you know what
 you'll be saving.
+
+How can you use the staging area to make sure you have
+one commit per logical change?
+
+You can manually decide which files will be updated, so
+that the commits make logical sense.
