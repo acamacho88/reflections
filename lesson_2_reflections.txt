@@ -28,3 +28,9 @@ If you'd like to try adding a feature but still want a
 version you know will work that you can easily demo, you
 could create a branch for the feature so that the working
 version will be preserved.
+
+How do the diagrams help you visualize the branch
+structure?
+
+I can see reachability and the logical paths I would see
+with git log easily.
