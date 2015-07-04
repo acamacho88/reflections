@@ -34,3 +34,10 @@ structure?
 
 I can see reachability and the logical paths I would see
 with git log easily.
+
+What is the result of merging two branches together? Why
+do we represent it in the diagram the way we do?
+
+It incoporates all the changes since they split into one
+commit.  In the diagram, both separate branches join back
+together during a merge.
