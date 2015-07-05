@@ -19,3 +19,9 @@ Cloning can be done from Github -> local or local ->
 local.
 Branching is just creating a different path in your
 code progression.
+
+What is the benefit of having a copy of the last known
+state of the remote stored locally?
+
+You can pick up working where others may have left off
+when they last pushed to Github.
