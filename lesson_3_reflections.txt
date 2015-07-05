@@ -10,3 +10,12 @@ with your remote repository?
 
 In case there are any changes on your local repository
 that you don't want overwritten.
+
+Describe the differences between forks, clones, and
+branches. When would you use one instead of another?
+
+A fork is a copy on Github of another Github repository.
+Cloning can be done from Github -> local or local ->
+local.
+Branching is just creating a different path in your
+code progression.
