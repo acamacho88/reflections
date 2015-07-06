@@ -34,3 +34,14 @@ Being able to see changes as they're happening would be
 easier with Google Docs, but having a record and being
 able to experiment with different branches would not be
 easy.
+
+When would you want to make changes in a separate branch
+rather than directly in master? What benefits does each
+approach have?
+
+Changes in separate branches would be useful if you're
+experimenting with someone you're not sure will work
+and want to have the working version easily accessible.
+Changing only the master has the benefit of foregoing
+a lot of the complications of keeping track of everyone's
+branches.
