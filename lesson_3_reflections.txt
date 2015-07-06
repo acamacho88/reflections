@@ -25,3 +25,12 @@ state of the remote stored locally?
 
 You can pick up working where others may have left off
 when they last pushed to Github.
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+Using Google Docs or trading files through email.
+Being able to see changes as they're happening would be
+easier with Google Docs, but having a record and being
+able to experiment with different branches would not be
+easy.
